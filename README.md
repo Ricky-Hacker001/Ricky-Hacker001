@@ -1,66 +1,69 @@
-<h1 align="center">🐍 COBRA</h1>
+<h1 align="center">🐍 COBRA — Commanding the Web, Securing the Grid</h1>
 <p align="center">
-  <b>aka Ricky</b> — Ethical Hacker | IoT Engineer | Full-Stack Developer
-</p>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=EE4B9AFF&center=true&vCenter=true&width=435&lines=Building+Secure+Real-World+Solutions...;Cybersecurity+%7C+IoT+%7C+Full-Stack+Web+Apps;Always+Learning%2C+Always+Building+%F0%9F%9A%80" alt="Typing SVG" />
+  <b>aka Ricky</b> — Ethical Hacker | IoT Alchemist | Network Ninja | Full-Stack Architect
 </p>
 
----
-
-### 👨‍💻 About Me
-
-- 🎓 **CSE Student** @ Christ (Deemed to be University), Bangalore  
-- 🧠 Multidisciplinary engineer with experience in **Cybersecurity, IoT, Full-Stack Web**, and **Networking**
-- 🔐 Passionate about ethical hacking, system hardening, and secure architecture
-- 🤖 Builder of **Chrisbo**, the smart humanoid reception robot
-- 🛡️ Identified and disclosed a critical PII leak using ethical hacking at my university
-- 🏆 Hackathon Winner | 1st in IoT Hackathon & GenAI | Top 5 in Smart India Hackathon
-
----
-
-### ⚒️ Tech Stack
-
-- Languages : Python, PHP, HTML, CSS, JavaScript, SQL
-- Web : Full-stack Dev, Admin Panels, Secure Auth, MySQL
-- IoT : Arduino, Raspberry Pi, Sensors, Serial Comm
-- Cybersecurity : Burp Suite, Google Dorking, Input Validation, VPNs
-- Tools : Git, Linux, VS Code, Telegram API, OpenCV, Hostinger
-
-
----
-
-### 🚀 Featured Projects
-
-| Project | Tech Stack | Description |
-|--------|------------|-------------|
-| 🧠 **Chrisbo (Humanoid Robot)** | Python, Arduino, RPi | AI-powered receptionist robot with real-time interaction |
-| 🛡️ **WiFi Monitoring Security Device** | Python, OpenCV, MySQL | Detects unauthorized access & movement via Telegram alerts |
-| 🍽️ **The Kitchen (Food Order System)** | PHP, MySQL, JS | Full-stack HR system with 4 secure logins and admin dashboards |
-| 💻 **Mini Projects Repo** | HTML, PHP, Arduino | College Notes Portal, RFID-based tools, Path-Following Robot |
-
----
-
-### 📈 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ricky-Hacker001&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ricky-Hacker001&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ricky-Hacker001&layout=compact&theme=radical" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF6B08&center=true&vCenter=true&width=435&lines=Securing+Networks%2C+One+Packet+at+a+Time...;IoT+Engineer+%7C+Red+Team+Specialist+%7C+Web+Architect;Built+for+Speed%2C+Wired+for+Defense+%F0%9F%94%AE" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🧠 Certifications & Achievements
+### 🧠 Hacker Profile
 
-- 🧾 Certified: CISCO - Networking Protocols, Cybersecurity | Ethical Hacking - MyCaptain
-- 🏆 1st Place: IoT Hackathon | GenAI Hackathon
-- 🎖️ 4th Place: Smart India Hackathon – Built real-time integrated solution
-- 🔍 Exposed sensitive PII via ethical hacking, improved Christ Univ data security
+- 🎓 **CSE @ Christ University**, Bangalore  
+- 🛡️ **Network Specialist** — trained in VPNs, packet sniffing, and protocol analysis  
+- 📡 **IoT Tinkerer** — crafting edge-smart devices with sensors, microcontrollers & security baked in  
+- 🔓 Ethical Hacker — disclosed critical PII leaks, practiced real-world exploits & secure architecture  
+- 🧰 Full-Stack Developer — building secure apps & portals with authentication and data protection  
+- 🏆 Hackathon Leader — 1st @ IoT + GenAI Hackathons, Top 5 in Smart India Hackathon
 
 ---
 
-### 🔗 Connect With Me
+### ⚒️ My Arsenal
+
+| Domain        | Tools & Skills                         |
+|--------------|----------------------------------------|
+| 💻 Programming  | Python, PHP, JS, HTML/CSS, SQL          |
+| 🌐 Web Dev     | MySQL, Admin Panels, Auth Systems       |
+| 📡 Networking  | TCP/IP, VPNs, Wireshark, Packet Analysis |
+| 🧠 Hacking     | Burp Suite, Google Dorks, Input Validation |
+| 🤖 IoT         | Arduino, RPi, Sensors, Serial Comm       |
+| 🔧 Utilities    | Git, Linux CLI, VS Code, Telegram API, Hostinger |
+
+---
+
+### 🧪 Projects Worth Breaking Into
+
+| 💼 Project                        | ⚙️ Tech Stack               | 🔍 Summary |
+|----------------------------------|-----------------------------|------------|
+| 🧠 **Chrisbo**                   | Python, Arduino, RPi        | Humanoid robot receptionist powered by real-time logic |
+| 🛡️ **WiFi Security Device**     | Python, OpenCV, MySQL       | Sniffs intrusions & sends Telegram alerts on movement and access violations |
+| 🌐 **The Kitchen Ordering App** | PHP, JS, MySQL              | Admin-secured food ordering platform with multi-role auth |
+| 📁 **Mini Projects Repo**       | HTML, PHP, Arduino          | RFID tools, autonomous bot, student portals & more |
+
+---
+
+### 📊 GitHub XP
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ricky-Hacker001&show_icons=true&theme=dark" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ricky-Hacker001&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ricky-Hacker001&layout=compact&theme=dark" />
+</p>
+
+---
+
+### 🧬 Badges & Wins
+
+- 🧾 **Certifications**: CISCO (Networking & Cybersecurity) | MyCaptain (Ethical Hacking)
+- 🏆 1st Place: IoT Hackathon, GenAI Hackathon
+- 🎖️ 4th Place: Smart India Hackathon – built real-time enterprise-grade security suite
+- 🔎 PII Leak Disclosure: Boosted University’s Data Security 🔐
+
+---
+
+### 🔗 Drop Your Payload
 
 <p align="center">
   <a href="mailto:ricky.nuetrex@gmail.com">📧 Email</a> •
@@ -71,14 +74,13 @@
 
 ---
 
-### 🧬 Quote of the Day
-> _"The quieter you become, the more you are able to hear." – Kali Linux philosophy_
+### 🧠 Hacker Philosophy
+> _"If you can't find a door—build one with code, IoT, and a VPN."_  
+> _"The quieter you become, the more you hear." – Kali Linux wisdom_
 
 ---
 
-### 🐍 Contribution Snake
+### 🐍 Network Contribution Snake
 <p align="center">
   <img src="https://github.com/Ricky-Hacker001/Ricky-Hacker001/blob/output/github-contribution-grid-snake.svg" />
 </p>
-
-

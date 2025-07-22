@@ -65,8 +65,8 @@
 <p align="center">
   <a href="mailto:ricky.nuetrex@gmail.com">📧 Email</a> •
   <a href="https://github.com/Ricky-Hacker001">🐙 GitHub</a> •
-  <a href="https://linkedin.com/in/YOUR-LINK">🔗 LinkedIn</a> •
-  <a href="https://closercouple.xyz">🌐 Portfolio</a>
+  <a href="https://www.linkedin.com/in/ricky-f-btech/">🔗 LinkedIn</a> •
+  <a href="https://ricky-neon.vercel.app">🌐 Portfolio</a>
 </p>
 
 ---

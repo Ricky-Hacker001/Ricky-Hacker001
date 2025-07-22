@@ -10,17 +10,22 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout the repository
+      - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Generate GitHub contribution snake SVG
+      - name: Generate Snake SVG
         uses: Platane/snk@master
         with:
           github_user_name: Ricky-Hacker001
           outputs: |
-            ./output/github-contribution-grid-snake.svg
+            ./github-contribution-grid-snake.svg
 
-      - name: Commit and push generated SVG
+      - name: Create output folder and move file
+        run: |
+          mkdir -p output
+          mv github-contribution-grid-snake.svg output/
+
+      - name: Commit and push generated snake SVG
         uses: EndBug/add-and-commit@v9
         with:
           author_name: github-actions

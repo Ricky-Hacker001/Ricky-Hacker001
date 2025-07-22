@@ -4,8 +4,9 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF6B08&center=true&vCenter=true&width=435&lines=Securing+Networks%2C+One+Packet+at+a+Time...;IoT+Engineer+%7C+Red+Team+Specialist+%7C+Web+Architect;Built+for+Speed%2C+Wired+for+Defense+%F0%9F%94%AE" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF6B08&center=true&vCenter=true&width=600&lines=Securing+Networks%2C+One+Packet+at+a+Time...;IoT+Engineer+%7C+Red+Team+Specialist+%7C+Web+Architect;Built+for+Speed%2C+Wired+for+Defense+%F0%9F%94%AE" alt="Typing SVG" />
 </p>
+
 
 ---
 

@@ -21,11 +21,11 @@
 
 ### ⚒️ Tech Stack
 
-Languages : Python, PHP, HTML, CSS, JavaScript, SQL
-Web : Full-stack Dev, Admin Panels, Secure Auth, MySQL
-IoT : Arduino, Raspberry Pi, Sensors, Serial Comm
-Cybersecurity : Burp Suite, Google Dorking, Input Validation, VPNs
-Tools : Git, Linux, VS Code, Telegram API, OpenCV, Hostinger
+- Languages : Python, PHP, HTML, CSS, JavaScript, SQL
+- Web : Full-stack Dev, Admin Panels, Secure Auth, MySQL
+- IoT : Arduino, Raspberry Pi, Sensors, Serial Comm
+- Cybersecurity : Burp Suite, Google Dorking, Input Validation, VPNs
+- Tools : Git, Linux, VS Code, Telegram API, OpenCV, Hostinger
 
 
 ---

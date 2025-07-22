@@ -2,7 +2,7 @@ name: Generate Snake Animation 🐍
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Runs every day at midnight
+    - cron: "0 0 * * *" # every day at midnight
   workflow_dispatch:
 
 jobs:
@@ -13,23 +13,22 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Generate GitHub Contribution Snake
-        uses: Platane/snk@v3
+      - name: Generate Snake SVG
+        uses: Platane/snk@master
         with:
           github_user_name: Ricky-Hacker001
-          svg_out_path: dist/github-contribution-grid-snake.svg
-          gif_out_path: dist/github-contribution-grid-snake.gif
+          outputs: |
+            ./github-contribution-grid-snake.svg
 
-      - name: Move files to output folder
+      - name: Move file to output folder
         run: |
           mkdir -p output
-          cp dist/github-contribution-grid-snake.svg output/
-          cp dist/github-contribution-grid-snake.gif output/
+          mv github-contribution-grid-snake.svg output/
 
-      - name: Commit and push animation
+      - name: Commit and push generated SVG
         uses: EndBug/add-and-commit@v9
         with:
           author_name: github-actions
           author_email: github-actions@github.com
-          message: "🐍 Update contribution snake animation"
-          add: "output/*"
+          message: "🐍 Update GitHub contribution snake"
+          add: "output/github-contribution-grid-snake.svg"

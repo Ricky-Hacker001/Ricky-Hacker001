@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repo
+      - name: Checkout the repository
         uses: actions/checkout@v3
 
       - name: Generate GitHub contribution snake SVG
@@ -19,7 +19,7 @@ jobs:
           github_user_name: Ricky-Hacker001
           svg_out_path: output/github-contribution-grid-snake.svg
 
-      - name: Commit and push SVG
+      - name: Commit and push generated SVG
         uses: EndBug/add-and-commit@v9
         with:
           author_name: github-actions

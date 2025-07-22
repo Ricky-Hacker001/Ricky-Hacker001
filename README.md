@@ -76,7 +76,8 @@
 
 ---
 
-### 🐍 Signature
+### 🐍 Contribution Graph
 <p align="center">
   <img src="https://github.com/Ricky-Hacker001/Ricky-Hacker001/blob/output/github-contribution-grid-snake.svg" />
 </p>
+

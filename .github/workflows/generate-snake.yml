@@ -10,18 +10,19 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Generate GitHub Contribution Snake
-        uses: Platane/snk@master
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Generate GitHub contribution snake SVG
+        uses: Platane/snk@v3
         with:
           github_user_name: Ricky-Hacker001
-          outputs: |
-            ./output/github-contribution-grid-snake.svg
-            ./output/github-contribution-grid-snake-dark.svg?palette=github-dark
+          svg_out_path: output/github-contribution-grid-snake.svg
 
-      - name: Push generated SVG
+      - name: Commit and push SVG
         uses: EndBug/add-and-commit@v9
         with:
           author_name: github-actions
           author_email: github-actions@github.com
-          message: "🐍 generate snake contribution grid"
-          add: "output/*.svg"
+          message: "🐍 Update GitHub contribution snake"
+          add: "output/github-contribution-grid-snake.svg"

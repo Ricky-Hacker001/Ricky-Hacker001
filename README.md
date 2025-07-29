@@ -57,7 +57,7 @@
 
 ### 🧬 Badges & Wins
 
-- 🧾 **Certifications**: CISCO (Networking & Cybersecurity) | MyCaptain (Ethical Hacking)
+- 🧾 **Certifications**: CISCO (Networking, Cybersecurity & Introduction to IoT and Digital Transformation) | MyCaptain (Ethical Hacking) | Udemy (SQL and Database Bootcamp)
 - 🏆 1st Place: IoT Hackathon, GenAI Hackathon
 - 🎖️ 4th Place: Smart India Hackathon – built real-time enterprise-grade security suite
 - 🔎 PII Leak Disclosure: Boosted University’s Data Security 🔐
@@ -80,8 +80,3 @@
 > _"The quieter you become, the more you hear." – Kali Linux wisdom_
 
 ---
-
-### 🐍 Network Contribution Snake
-<p align="center">
-  <img src="https://github.com/Ricky-Hacker001/Ricky-Hacker001/blob/output/github-contribution-grid-snake.svg" />
-</p>

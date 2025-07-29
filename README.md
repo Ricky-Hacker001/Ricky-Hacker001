@@ -1,4 +1,4 @@
-<h1 align="center">Dr.COBRA — Commanding the Web, Securing the Grid</h1>
+<h1 align="center">Dr. COBRA — Commanding the Web, Securing the Grid</h1>
 <p align="center">
   <b>aka Ricky</b> — Ethical Hacker | IoT Alchemist | Network Ninja | Full-Stack Architect
 </p>

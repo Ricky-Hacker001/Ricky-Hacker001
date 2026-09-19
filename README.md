@@ -318,11 +318,11 @@ Experimental humanoid receptionist combining Python, Arduino, Raspberry Pi, and 
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ricky-Hacker001&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Ricky's GitHub Stats"/>
+  <img src="./profile/github-stats.svg" alt="Ricky's GitHub Stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ricky-Hacker001&layout=compact&theme=tokyonight&hide_border=true" alt="Ricky's Top Languages"/>
+  <img src="./profile/top-languages.svg" alt="Ricky's Top Languages"/>
 </p>
 
 ---
@@ -330,7 +330,11 @@ Experimental humanoid receptionist combining Python, Arduino, Raspberry Pi, and 
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ricky-Hacker001/Ricky-Hacker001/output/github-snake.svg" alt="GitHub Contribution Snake"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="./profile/github-snake.svg"/>
+    <img src="./profile/github-snake.svg" alt="GitHub Contribution Snake"/>
+  </picture>
 </p>
 
 ---

@@ -317,25 +317,25 @@ Experimental humanoid receptionist combining Python, Arduino, Raspberry Pi, and 
 
 ## 📊 GitHub Activity
 
-<p align="center">
-  <img src="./profile/github-stats.svg" alt="Ricky's GitHub Stats"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="./profile/top-languages.svg" alt="Ricky's Top Languages"/>
-</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ricky-Hacker001&show_icons=true&theme=radical&hide_border=true&title_color=7C3AED&icon_color=7C3AED&text_color=ffffff&bg_color=0d1117" height="180" alt="Ricky's GitHub Stats"/>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ricky-Hacker001&theme=dark&hide_border=true&ring=7C3AED&fire=7C3AED&currStreakLabel=7C3AED&sideLabels=ffffff&dates=9ca3af&background=0d1117" height="180" alt="Ricky's GitHub Streak"/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ricky-Hacker001&layout=compact&theme=radical&hide_border=true&title_color=7C3AED&text_color=ffffff&bg_color=0d1117" height="180" alt="Ricky's Top Languages"/>
+
+</div>
 
 ---
 
 ## 🐍 Contribution Snake
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile/github-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="./profile/github-snake.svg"/>
-    <img src="./profile/github-snake.svg" alt="GitHub Contribution Snake"/>
-  </picture>
-</p>
+<div align="center">
+
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%" alt="GitHub Contribution Snake"/>
+
+</div>
 
 ---
 

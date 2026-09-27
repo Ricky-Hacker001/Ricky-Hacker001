@@ -54,36 +54,6 @@ I enjoy building systems from the ground up, testing their weaknesses, and engin
 
 ---
 
-## 🧠 Engineering Focus
-
-```text
-Cybersecurity
-     │
-     ├── VAPT
-     ├── Security Monitoring
-     ├── Network Security
-     ├── Web/API Security
-     └── Secure Software Engineering
-             │
-             ▼
-     Cloud-Native Engineering
-             │
-             ├── Java + Spring Boot
-             ├── Node.js + Express
-             ├── REST APIs
-             ├── Microservices
-             ├── API Gateway
-             ├── RabbitMQ
-             ├── MongoDB / MySQL
-             ├── Docker
-             └── Kubernetes
-             │
-             ▼
-        Cloud Security
-```
-
----
-
 ## 🛠️ Technical Stack
 
 ### 💻 Programming
@@ -215,66 +185,12 @@ Cybersecurity
 
 ## 🚀 Featured Projects
 
-### 🐍 Open Cobra — Cybersecurity Toolkit
-
-Python-based cybersecurity toolkit containing modules for:
-
-- Passive reconnaissance
-- Vulnerability scanning
-- Security utilities
-- Hash-related utilities
-- Automated security workflows
-- Security research experiments
-
-### 🍰 Cake Delight — Cloud-Native Microservices
-
-Distributed food-ordering platform designed around cloud-native microservices.
-
-**Stack:** Node.js, Express.js, MongoDB, RabbitMQ, Docker, Kubernetes, React, Nginx
-
-Implemented:
-
-- Microservices architecture
-- API Gateway
-- REST APIs
-- Event-driven communication
-- RabbitMQ messaging
-- Docker Compose
-- Kubernetes deployment
-- Horizontal Pod Autoscaling
-- Persistent storage
-- MongoDB
-- React frontend
-
-### 💰 Gold App — Full-Stack Application
-
-Full-stack virtual gold platform.
-
-**Stack:** Node.js, TypeScript, React, AWS Lightsail, Cashfree
-
-Features:
-
-- User/Admin authentication
-- Role-based access control
-- Gold price tracking
-- Virtual gold purchasing
-- Cashfree payment integration
-- Cloud deployment
-
-### 📡 Wi-Fi Monitoring Security Device
-
-Raspberry Pi-based security monitoring system featuring:
-
-- Wi-Fi monitoring
-- Unauthorized access detection
-- Object/movement detection
-- Telegram alerts
-- Security dashboard
-- Cloud-connected monitoring
-
-### 🤖 Chrisbo — Humanoid Receptionist
-
-Experimental humanoid receptionist combining Python, Arduino, Raspberry Pi, and sensors.
+- 🔐 [**LeakWatch**](https://github.com/Ricky-Hacker001/leakwatch) — Security tool for detecting exposed secrets and sensitive information.
+- 🐍 [**Open Cobra**](https://github.com/Ricky-Hacker001/Open_Cobra) — Python-based cybersecurity toolkit for reconnaissance and vulnerability analysis.
+- 🍰 **Cake Delight** — Cloud-native microservices platform built with Node.js, MongoDB, RabbitMQ, Docker and Kubernetes.
+- 💰 **Gold App** — Full-stack virtual gold platform with React, Node.js, TypeScript, Cashfree and AWS Lightsail.
+- 📡 **Wi-Fi Monitoring Security Device** — Raspberry Pi-based Wi-Fi monitoring, object detection and Telegram alerting system.
+- 🤖 **Chrisbo** — Experimental humanoid receptionist built with Python, Arduino and Raspberry Pi.
 
 ---
 
@@ -341,27 +257,6 @@ Experimental humanoid receptionist combining Python, Arduino, Raspberry Pi, and 
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%" alt="GitHub Contribution Snake"/>
 
 </div>
-
----
-
-## 🎯 Current Mission
-
-```text
-                    SECURITY
-                        │
-          ┌─────────────┴─────────────┐
-          │                           │
-     APPLICATION                 CLOUD-NATIVE
-       SECURITY                    SECURITY
-          │                           │
-          ├── API Security           ├── Kubernetes
-          ├── VAPT                   ├── Docker
-          ├── Secure Coding          ├── AWS
-          └── AppSec                 ├── Microservices
-                                     └── DevSecOps
-```
-
-Currently focused on becoming a stronger **Cloud-Native Security Engineer** by combining software engineering, distributed systems, cloud technologies, and cybersecurity.
 
 ---
 

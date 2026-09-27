@@ -319,11 +319,16 @@ Experimental humanoid receptionist combining Python, Arduino, Raspberry Pi, and 
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Ricky-Hacker001&show_icons=true&theme=radical&hide_border=true&title_color=7C3AED&icon_color=7C3AED&text_color=ffffff&bg_color=0d1117" height="180" alt="Ricky's GitHub Stats"/>
-
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ricky-Hacker001&theme=dark&hide_border=true&ring=7C3AED&fire=7C3AED&currStreakLabel=7C3AED&sideLabels=ffffff&dates=9ca3af&background=0d1117" height="180" alt="Ricky's GitHub Streak"/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ricky-Hacker001&layout=compact&theme=radical&hide_border=true&title_color=7C3AED&text_color=ffffff&bg_color=0d1117" height="180" alt="Ricky's Top Languages"/>
+  <br><br>
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ricky-Hacker001&theme=radical" width="95%" alt="Ricky's GitHub Profile Details"/>
+
+  <br>
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ricky-Hacker001&theme=radical" width="46%" alt="Ricky's GitHub Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ricky-Hacker001&theme=radical" width="46%" alt="Ricky's Most Used Languages"/>
 
 </div>
 
